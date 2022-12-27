@@ -1,7 +1,5 @@
 # Fullstack react express mongodb
 
-## What is this?
-
 A simple application showcasing CRUD operations
 
 ## How to run
